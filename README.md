@@ -6,8 +6,9 @@
 ```ts
 const oskar = {
   job: 'ECS (https://euseq.com/)',
-  favorites: [TypeScript, JavaScript, Python, Rust, Serenity, Java],
-  location: 'Poland'
+  favorites: [TypeScript, JavaScript, Python, Rust, Solidity, Java],
+  location: 'Poland',
+  interests: ['AI', 'Deep Learning', 'Crypto', 'Algorithms', 'Discord Bots', 'Web Apps', 'Mobile Apps']
 };
 ```
 
