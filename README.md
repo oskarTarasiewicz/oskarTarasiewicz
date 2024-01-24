@@ -4,7 +4,7 @@
 ```ts
 const info = {
   job: 'European Sequencing Center',
-  favorites: [TypeScript, JavaScript, Python, Rust, Solidity, Java],
+  langs: [TypeScript, JavaScript, Python, Rust, Solidity, Java],
   location: 'Poland',
   interests: ['AI', 'Deep Learning', 'Crypto', 'Algorithms', 'Discord Bots', 'Web Apps', 'Mobile Apps']
 };
