@@ -1,10 +1,8 @@
 <h1 align="center">:wave: Hi my name is Oskar Tarasiewicz</h1>
 <h3 align="center">Full-stack JS / TS Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oskartarasiewicz&label=Profile Views&color=027041&style=for-the-badge" alt="oskartarasiewicz" /> </p>
-
 ```ts
-const oskar = {
+const info = {
   job: 'European Sequencing Center',
   favorites: [TypeScript, JavaScript, Python, Rust, Solidity, Java],
   location: 'Poland',
